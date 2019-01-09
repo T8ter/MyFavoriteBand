@@ -24,3 +24,7 @@ h1 {
  body {
    background-color: teal;
  }
+ .Sidebar img{
+   justify-content: center;
+   width: 200px;
+ }
