@@ -1,0 +1,26 @@
+img {
+  width: 500px;
+  padding: 20px
+}
+
+
+.Sidebar{
+  float: right;
+  width: 600px;
+  background-color: rgba(200,200,200,.5);
+  padding: 20px;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 45px;
+  background-color: lightgrey;
+  text-align: center;
+}
+ body {
+   background-color: teal;
+ }
